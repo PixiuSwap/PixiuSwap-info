@@ -174,7 +174,7 @@ function SideNav({ history }) {
               </Link>
             </HeaderText>
             <HeaderText>
-              <Link href="# " target="_blank">
+              <Link href="https://twitter.com/pixiuswaptoken" target="_blank">
                 Twitter
               </Link>
             </HeaderText>
